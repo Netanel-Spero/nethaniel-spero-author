@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nethanielspero.com/sitemap.xml
